@@ -1,8 +1,8 @@
 ---
-name: Blog Post
-description: Template for creating a new blog post
-title: "New Blog Post"
-labels: blog
+name: Post
+about: Post
+title: Post
+labels: ''
 assignees: ''
 
 ---
